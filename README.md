@@ -64,10 +64,10 @@ Print accuracy, confusion matrix, and classification report.
 
 ```
 Customer-Churn-Prediction-ML/
-│-- Customer Churn Prediction using classification algorithms.py   # Main script
-│-- Churn_Modelling.csv                                             # Dataset (user-provided)
-│-- README.md                                                       # Documentation
-│-- assets/                                                         # Images for README
+│-- Customer Churn Prediction using classification algorithms.py   
+│-- Churn_Modelling.csv                                             
+│-- README.md                                                       
+│-- assets/                                                         
 │    ├── code.JPG
 │    └── output.JPG
 ```
